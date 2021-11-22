@@ -6,6 +6,7 @@ export const About = () => {
     <>
       <PageTitle>About</PageTitle>
       <p>This is an about page</p>
+      <p>Contect goes here</p>
     </>
   )
 }
